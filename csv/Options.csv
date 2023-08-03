@@ -1,10 +1,10 @@
 Setting,Customize,Hints
 Map Info,,"For help, see tutorial in HandsOnDataViz.org"
-Map Title,Demo: Leaflet Maps with Google Sheets v. 1.2.0,Insert your map title. Always appears in browser tab
-Map Subtitle,Explore the East Coast Greenway,Add context (or leave blank)
+Map Title,New Maps CPC,Insert your map title. Always appears in browser tab
+Map Subtitle,地圖副標題,Add context (or leave blank)
 Display Title,topleft,"Select position to display map title, or off"
-Author Name,Add Your Name,"Appears in credits as ""View data by..."" (or leave blank)"
-Author Email or Website,,Insert your email or web address to appear as link in Author Name (or leave blank)
+Author Name,黃建邦,"Appears in credits as ""View data by..."" (or leave blank)"
+Author Email or Website,02501@cpc.tw,Insert your email or web address to appear as link in Author Name (or leave blank)
 Author Code Repo,https://github.com/HandsOnDataViz/leaflet-maps-with-google-sheets,"Insert your code repo URL to appear as link in ""View code..."" (or leave blank)"
 Author Code Credit,"<a href=""https://handsondataviz.org"">HandsOnDataViz</a>","Appears in credits as ""...code by..."" (or leave blank)"
 Google Analytics Tracking ID,,General format: UA-5488840-29
